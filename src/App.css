@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+h1{
+  background-color: #282c34;
+  color: white;
+  margin-left: -20px;
+  height: 70px;
+}
